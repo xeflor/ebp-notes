@@ -1,12 +1,15 @@
 - [1](#---1---)
 
+<br>
+<br>
+
+
 ---
 ### -- 1 --
 
-**Present Simple**
+**Present Simple (I, We, You, They)**
 
-> Подлежащее + глагол (subject + verb) - в общем случае
-> I / We / They / You
+> Подлежащее + глагол (subject + verb).
 
 1. I work here.  (Я работаю здесь)
 2. I study.
@@ -19,14 +22,14 @@
 9. I go ***to school***.
 10. I go ***to work***.
 
-***here*** (здесь)
-work (работать)
-study (учиться)
-understand (понимать)
-know (знать)
-very well (очень хорошо)
-live (жить)
-speak (говорить)
+***here*** (здесь)  
+work (работать)  
+study (учиться)  
+understand (понимать)  
+know (знать)  
+very well (очень хорошо)  
+live (жить)  
+speak (говорить)  
 
 > Ед.число, исчисляемое - добавляется артикль: 'a' - перед согласной, 'an' - перед гласной.
 
@@ -35,16 +38,17 @@ speak (говорить)
 13. I have a sister.
 14. We understand you.
 15. I have a car.
-16. I ***think so***. (Я думаю так)
+16. I think so.
 17. I see it.
 18. I want it.
 19. I remember it.
 20. I remember it very well.
 
-think (думать)
-see (видеть)
-want (хотеть)
-remember (помнить)
+think (думать)  
+***so*** (так)  
+see (видеть)  
+want (хотеть)  
+remember (помнить)  
 
 21. We speak English.
 22. You know it.
@@ -57,5 +61,11 @@ remember (помнить)
 29. I live in this city.
 30. We live in this country.
 
-***this*** (этот/эта)
-help (помогать)
+help (помогать)  
+***this*** (этот/эта)  
+***there*** (там)  
+
+<br>
+<br>
+
+
